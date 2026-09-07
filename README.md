@@ -1,6 +1,10 @@
 # FinanceHub - Financial App UI
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Bettdatsh210-boop)
+
 A modern, beautiful financial dashboard UI built with **React** and **Tailwind CSS**.
+
+**Demo:** [financial-app-ui-sigma.vercel.app](https://financial-app-ui-sigma.vercel.app)
 
 ## 🚀 Quick Start
 
@@ -16,6 +20,14 @@ npm start
 - Responsive design (mobile, tablet, desktop)
 - Clean, modern UI with Tailwind CSS
 - Easy to customize and extend
+
+## Sponsor
+
+Open-source work on this UI is funded here:
+
+**[github.com/sponsors/Bettdatsh210-boop](https://github.com/sponsors/Bettdatsh210-boop)**
+
+Sponsorships are not tax-deductible.
 
 ## 💰 Monetization Strategy
 
@@ -87,7 +99,3 @@ Easy customization:
 ## 📜 License
 
 MIT License - Sell freely, no restrictions.
-
----
-
-**Ready to make your first sale?** 🚀
