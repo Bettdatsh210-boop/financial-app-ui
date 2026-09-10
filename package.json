@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "@vitejs/plugin-react": "latest",
     "autoprefixer": "latest",
     "postcss": "latest",
@@ -17,6 +18,5 @@
     "react-dom": "^18.3.1",
     "tailwindcss": "^3.4.17",
     "vite": "latest"
-  },
-  "devDependencies": {}
+  }
 }
